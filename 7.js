@@ -1,0 +1,1 @@
+console.log(`Writing addition, subtraction, multiplication and division cases that all result in 8\n4 + 4= ${4+4}\n10-2= ${10-2}\n4 x 2= ${4*2}\n16 / 2= ${16/2} `)
